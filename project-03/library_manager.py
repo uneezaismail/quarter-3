@@ -112,5 +112,6 @@ def main():
             console.print("[bold green]Library saved. Goodbye![/]")
             break
 
+
 if __name__ == "__main__":
     main()
