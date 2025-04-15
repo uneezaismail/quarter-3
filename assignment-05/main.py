@@ -62,7 +62,7 @@ def is_locked_out():
     return False
 
 # UI
-st.set_page_config(page_title="secure data system", page_icon="🛡️", layout="centered")
+st.set_page_config(page_title="VaultLock", page_icon="🛡️", layout="centered")
 st.markdown("# 🛡️ Secure Data Encryption System")
 
 if st.session_state.current_user:
